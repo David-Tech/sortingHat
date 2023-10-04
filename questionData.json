@@ -1,0 +1,88 @@
+{
+   "questions":[
+        {
+            "question": "What element do you feel most connected to?",
+            "answers":[
+                {
+                    "text": "Fire",
+                    "house": "Gryffindor"
+                },
+                {
+                    "text": "Earth",
+                    "house": "Hufflepuff"
+                },
+                {
+                    "text": "Air",
+                    "house": "Ravenclaw"
+                },
+                {
+                    "text": "Water",
+                    "house": "Slytherin"
+                }
+            ]
+        },
+        {
+            "question": "What do you fear most?",
+            "answers":[
+                {
+                    "text": "Being alone.",
+                    "house": "Hufflepuff"
+                },
+                {
+                    "text": "Being wrong.",
+                    "house": "Ravenclaw"
+                },
+                {
+                    "text": "Being hated.",
+                    "house": "Gryffindor"
+                },
+                {
+                    "text": "Being stupid.",
+                    "house": "Ravenclaw"
+                }
+            ]
+        },
+        {
+            "question": "You stumble upon a mysterious box with a note saying it contains a glimpse into your future. Do you open it?",
+            "answers":[
+                {
+                    "text": "Open it immediately, eager to know the future",
+                    "house": "Gryffindor"
+                },
+                {
+                    "text": "Leave it untouched, fearing the unknown",
+                    "house": "Slytherin"
+                },
+                {
+                    "text": "Seek advice from a fortune teller first",
+                    "house": "Ravenclaw"
+                },
+                {
+                    "text": "Wait for a significant life event before opening it",
+                    "house": "Hufflepuff"
+                }
+            ]
+        },
+        {
+            "question": "You find yourself in a mystical garden, what catches your eye first?",
+            "answers":[
+                {
+                    "text": "The shimmering, glowing flower",
+                    "house": "Ravenclaw"
+                },
+                {
+                    "text": "The towering, ancient tree",
+                    "house": "Gryffindor"
+                },
+                {
+                    "text": "The bubbling, colorful fountain",
+                    "house": "Hufflepuff"
+                },
+                {
+                    "text": "The singing, talking animal",
+                    "house": "Slytherin"
+                }
+            ]
+        }
+    ]
+}
